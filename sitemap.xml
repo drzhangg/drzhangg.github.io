@@ -37,6 +37,20 @@
   </url>
 
   
+  <url>
+    <loc>https://drzhangg.github.io/tags/networks/</loc>
+    <lastmod>2023-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://drzhangg.github.io/tags/cni/</loc>
+    <lastmod>2023-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
 </urlset>
