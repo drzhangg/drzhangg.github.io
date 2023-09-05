@@ -1,4 +1,4 @@
-http://example.com/2023/09/05/network/
-http://example.com/2023/09/05/node/
-http://example.com/2023/09/04/hello-world/
-http://example.com/
+https://drzhangg.github.io/2023/09/05/network/
+https://drzhangg.github.io/2023/09/05/node/
+https://drzhangg.github.io/2023/09/04/hello-world/
+https://drzhangg.github.io/

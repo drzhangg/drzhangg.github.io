@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://drzhangg.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://drzhangg.github.io/"/>
   <updated>2023-09-05T09:53:55.717Z</updated>
-  <id>http://example.com/</id>
+  <id>https://drzhangg.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>网络相关</title>
-    <link href="http://example.com/2023/09/05/network/"/>
-    <id>http://example.com/2023/09/05/network/</id>
+    <link href="https://drzhangg.github.io/2023/09/05/network/"/>
+    <id>https://drzhangg.github.io/2023/09/05/network/</id>
     <published>2023-09-05T08:12:45.569Z</published>
     <updated>2023-09-05T09:53:55.717Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>test</title>
-    <link href="http://example.com/2023/09/05/node/"/>
-    <id>http://example.com/2023/09/05/node/</id>
+    <link href="https://drzhangg.github.io/2023/09/05/node/"/>
+    <id>https://drzhangg.github.io/2023/09/05/node/</id>
     <published>2023-09-05T02:33:23.105Z</published>
     <updated>2023-09-05T08:12:34.252Z</updated>
     
@@ -58,8 +58,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/09/04/hello-world/"/>
-    <id>http://example.com/2023/09/04/hello-world/</id>
+    <link href="https://drzhangg.github.io/2023/09/04/hello-world/"/>
+    <id>https://drzhangg.github.io/2023/09/04/hello-world/</id>
     <published>2023-09-04T10:56:06.977Z</published>
     <updated>2023-09-04T10:56:06.978Z</updated>
     
