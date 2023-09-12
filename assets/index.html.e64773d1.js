@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-223bb28b","path":"/tags/calico/","title":"calico | Tags","lang":"zh-CN","frontmatter":{"title":"calico | Tags","layout":"Tags","blog":{"type":"category","name":"calico","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{a as data};

@@ -1,0 +1,5 @@
+import{_ as n,o as a,c as s,e}from"./app.9117781d.js";var t="/img/post/cni.jpeg";const c={},o=e('<h3 id="cni\u6267\u884C\u6D41\u7A0B" tabindex="-1"><a class="header-anchor" href="#cni\u6267\u884C\u6D41\u7A0B" aria-hidden="true">#</a> cni\u6267\u884C\u6D41\u7A0B</h3><p><img src="'+t+`" alt="cni"></p><div class="language-bash ext-sh"><pre class="language-bash"><code>kubectl get po <span class="token parameter variable">-n</span> kube-system
+</code></pre></div><div class="language-go ext-go"><pre class="language-go"><code><span class="token keyword">func</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    fmt<span class="token punctuation">.</span><span class="token function">Println</span><span class="token punctuation">(</span><span class="token string">&quot;hello&quot;</span><span class="token punctuation">)</span>
+<span class="token punctuation">}</span>
+</code></pre></div>`,4),p=[o];function i(l,r){return a(),s("div",null,p)}var d=n(c,[["render",i],["__file","2023-05-17-k8s-cni.html.vue"]]);export{d as default};
